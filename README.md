@@ -3,7 +3,7 @@
 2.GitHub Copilot 服务只有学生可以免费认证开通（若注册遇到问题可以查看该文档https://zhuanlan.zhihu.com/p/623326208）<br><br>
 3.成功之后得到一个导出一个token。如ghu_iEzI6rem7vZoQ68opqruA0h7aaULXM2UfC8D格式（该token是伪造的，真实token不可随意共享）<br><br>
 4.下载windows版本的docker（https://www.docker.com/）<br><br>
-5.在命令行一键部署<br>
+5.在命令行一键部署copilot-gpt4-service<br>
 ```
 docker run -d \
 --name copilot-gpt4-service \

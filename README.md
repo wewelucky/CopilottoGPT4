@@ -29,4 +29,9 @@ docker run -d -p 3000:3000 \
 ![Example Image](https://github.com/wewelucky/CopilottoGPT4/blob/main/setting.png)<br>
 11.然后测试一下和3.5之间的区别
 3.5：
+![Example Image](https://github.com/wewelucky/CopilottoGPT4/blob/main/test1.png)
+<br>
+4.0:
+![Example Image](https://github.com/wewelucky/CopilottoGPT4/blob/main/test2.png)
+<br>
 

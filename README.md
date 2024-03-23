@@ -26,8 +26,8 @@ aaamoon/copilot-gpt4-service:latest
 
 7.部署之后的效果图<br>
 ![Example Image](https://github.com/wewelucky/CopilottoGPT4/blob/main/docker.png)<br>
-8.启动后，可以在本地 http://127.0.0.1:8080  来访问 copilot-gpt4-service 服务。<br><br>
-9.安装完成后，在浏览器中用'http://localhost:3000/'即可访问，但是这只是本地的方法，别人无法访问。<br><br>
+8.启动后，可以在本地 `http://127.0.0.1:8080`  来访问 copilot-gpt4-service 服务。<br><br>
+9.安装完成后，即可访问，但是这只是本地的方法，别人无法访问,地址:'http://localhost:3000/'<br><br>
 10.然后设置模型，接口地址和token，如下图<br>
 ![Example Image](https://github.com/wewelucky/CopilottoGPT4/blob/main/setting.png)<br>
 11.然后测试一下和3.5之间的区别<br>

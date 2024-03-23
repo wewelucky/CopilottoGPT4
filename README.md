@@ -37,4 +37,4 @@ aaamoon/copilot-gpt4-service:latest
 4.0:<br>
 ![Example Image](https://github.com/wewelucky/CopilottoGPT4/blob/main/test2.png)
 <br>
-
+可以看到非常的智能，感谢老师们的观看！

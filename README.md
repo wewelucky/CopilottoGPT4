@@ -13,7 +13,8 @@ docker run -d \
 aaamoon/copilot-gpt4-service:latest
 ```
 6.一键部署ChatGPT-Next-Web<br>
-```docker run -d -p 3000:3000 \
+```
+docker run -d -p 3000:3000 \
    -e OPENAI_API_KEY=sk-xxxx \
    -e CODE=your-password \
    yidadaa/chatgpt-next-web

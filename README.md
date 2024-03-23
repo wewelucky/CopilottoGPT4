@@ -20,5 +20,6 @@ docker run -d -p 3000:3000 \
    yidadaa/chatgpt-next-web
 ```
 7.部署之后的效果图<br>
-![Example Image](C:\Users\86155\Desktop\image.png)<br>
+![Example Image](https://github.com/wewelucky/CopilottoGPT4/blob/main/docker.png)<br>
 8.启动后，可以在本地 http://127.0.0.1:8080  来访问 copilot-gpt4-service 服务。<br>
+9.安装完成后，在浏览器中用http://localhost:3000/即可访问，但是这只是本地的方法，别人无法访问。<br>
